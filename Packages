@@ -27,3 +27,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+
+Package: com.supertweaks.TweakC
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/bz.jed.tweakcompatible_0.1.5.deb
+Size: 54016
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+Description: This is a sample TweakC. Firmware should be Older than 7.0
+Name: TweakC
+Author: Tr1x <reposithree@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supermamon.TweakC
+
