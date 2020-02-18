@@ -107,6 +107,74 @@
 
 </script>
 
+<script type="text/javascript">
+  
+	bundleid = $.QueryString['p'];	
+
+    var contentBlocks = 	{
+        "#changeLogList" : 
+			{"type":"articles"  
+				,"source"			:"changelog"
+				,"titleSource" 		:"version"
+				,"paragraphSource"	:"change"
+				,"titleElement"	    : "<h5>"
+				,"paragraphContainer": "<ul class='list-group'>"
+				,"paragraphElement"	: "<li class='list-group-item'>"
+
+			}
+	}
+    $( document ).ready(function() {
+        $.ajax({
+            type    : "GET",
+            dataType: "xml",
+            url     : (bundleid+"/changelog.xml"),
+            success : function(xml){
+            	data_loader_engine(contentBlocks,xml)
+            },
+			cache   : false,
+            error: function() {
+                $("#packageError").show();
+				$("#packageInformation").hide();
+            }
+        }); //ajax
+		
+    }); // ready
+  </script>
+  
+  <script type="text/javascript">
+  
+	bundleid = $.QueryString['p'];	
+
+    var contentBlocks = 	{
+        "#changeLogList" : 
+			{"type":"articles"  
+				,"source"			:"changelog"
+				,"titleSource" 		:"version"
+				,"paragraphSource"	:"change"
+				,"titleElement"	    : "<h5>"
+				,"paragraphContainer": "<ul class='list-group'>"
+				,"paragraphElement"	: "<li class='list-group-item'>"
+
+			}
+	}
+    $( document ).ready(function() {
+        $.ajax({
+            type    : "GET",
+            dataType: "xml",
+            url     : (bundleid+"/changelog.xml"),
+            success : function(xml){
+            	data_loader_engine(contentBlocks,xml)
+            },
+			cache   : false,
+            error: function() {
+                $("#packageError").show();
+				$("#packageInformation").hide();
+            }
+        }); //ajax
+		
+    }); // ready
+  </script>
+
 <div id="contactInfo">
 	<div class="container">
 		<h5>CONTACT</h5>

@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/bz.jed.tweakcompatible_0.1.5.deb
 Size: 54016
 MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
-Description: This is a sample TweakC. Firmware should be Older than 7.0
+Description: This is a Check List of Tweak That you can have. Firmware should be Older than 7.0
 Name: TweakC
 Author: Tr1x <reposithree@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.TweakC
