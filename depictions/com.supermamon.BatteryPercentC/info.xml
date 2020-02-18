@@ -1,6 +1,6 @@
 <package>
-	<id>com.supermamon.newpackage</id>
-	<name>newpackage</name>
+	<id>com.supermamon.BatteryPercentC</id>
+	<name>BatteryPercentC</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
