@@ -2,7 +2,7 @@ Package: com.supertweaks.BatteryPercentC
 Version: 2.0.0-1
 Section: Tweaks
 Maintainer: SuperTweaks <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>13.3), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
@@ -32,7 +32,7 @@ Package: com.supertweaks.TweakC
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Tr1x <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/bz.jed.tweakcompatible_0.1.5.deb
 Size: 54016
