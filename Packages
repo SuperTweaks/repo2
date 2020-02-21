@@ -1,28 +1,43 @@
-Package: com.supermamon.newpackage
+Package: com.supertweaks.BatteryPercentC
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: SuperTweaks <reposithree@gmail.com>
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Description: This is a battery percent changer. Firmware should be greater than 7.0
+Name: BatteryPercentC
+Author: SuperTweaks <reposithree@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.BatteryPercentC
 
-Package: com.supermamon.oldpackage
+
+Package: com.supertweaks.Dock
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: SuperTweaks <reposithree@gmail.com>
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.clezz.dock_2.2.11.deb
+Size: 940
+MD5sum: 811bbebf3f10bd2d74d8f24e652a3074
+Description: This is a sample DezzNuts. Firmware should be lower than 7.0
+Name: Dock
+Author: SuperTweaks <reposithree@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Dock
 
+
+Package: com.supertweaks.TweakC
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <reposithree@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/bz.jed.tweakcompatible_0.1.5.deb
+Size: 54016
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+Description: This is a Check List of Tweak That you can have. Firmware should be Older than 7.0
+Name: TweakC
+Author: Tr1x <reposithree@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.TweakC
