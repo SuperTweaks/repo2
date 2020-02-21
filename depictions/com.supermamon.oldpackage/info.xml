@@ -1,21 +1,19 @@
 <package>
-	<id>com.supertweaks.TweakC</id>
-	<name>TweakC</name>
-	<version>0.0.2</version>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>7.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-	<package>mobilesubstrate</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is a Check List of Tweak That you can have</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

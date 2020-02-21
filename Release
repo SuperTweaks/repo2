@@ -1,8 +1,8 @@
-Origin: Super Tweaks
-Label: Super Tweaks
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Made By Tr1x
+Description: Reposi3 - a cydia repo template
