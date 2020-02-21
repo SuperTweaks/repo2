@@ -97,3 +97,17 @@ Description: This is Power add-on For you. Firmware should be Older than 7.0
 Name: PowerApp
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.PowerApp
+
+Package: com.supertweaks.Installer
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.apptapp.installer_5.0.0.deb
+Size: 23687034 
+MD5sum: ed68e13aecbe63c95b098906a2bde7cf
+Description: This is Package installer. Firmware should be Older than 7.0
+Name: Installer
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Installer
