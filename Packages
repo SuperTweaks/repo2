@@ -69,3 +69,17 @@ Description: This is a Package instaler. Firmware should be Older than 7.0
 Name: Zebra
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Zebra
+
+Package: com.supertweaks.Power
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dave1482.powerapp_4.4.1.deb
+Size: 229470
+MD5sum: 535d5d9d10d7f7cc17c1fcdc6492c363
+Description: This is a Package instaler. Firmware should be Older than 7.0
+Name: PowerApp
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Power
