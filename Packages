@@ -70,4 +70,30 @@ Name: Zebra
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Zebra
 
+Package: com.supertweaks.KillMyApps
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.smokin1337.killmyapps_1.0.deb
+Size: 141758
+MD5sum: a56d4e607ca6cebc5250601d9b469fb1
+Description: This is Kill Apps For you. Firmware should be Older than 7.0
+Name: KillMyApps
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.KillMyApps
 
+Package: com.supertweaks.PowerApp
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dave1482.powerapp_4.4.1.deb
+Size: 229470
+MD5sum: 535d5d9d10d7f7cc17c1fcdc6492c363
+Description: This is Power add-on For you. Firmware should be Older than 7.0
+Name: PowerApp
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.PowerApp
