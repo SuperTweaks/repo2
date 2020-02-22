@@ -209,3 +209,88 @@ Description: Do you want Play Wii on Your Iphone.
 Name: Dolphinios
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Dolphinios
+
+Package: com.supertweaks.CleanHomeScreen
+Version: 1.0.0-1
+Section: Tweak
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.royalapps.cleanhomescreen_1.0.4.deb
+Size: 23146
+MD5sum: 03c9029b619211127cc28241283dd8e2
+Description: Do you want a Clean Home Screen.
+Name: Clean Home Screen
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.CleanHomeScreen
+
+Package: com.supertweaks.Bettersettings
+Version: 1.0.0-1
+Section: Tweak
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/More/com.midnightchips.bettersettings_0.1.3.deb
+Size: 1242046
+MD5sum: e0f3444ee19be1830d2126e8fcbf4288
+Description: Do you want a Clean Settings.
+Name: Bettersettings
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Bettersettings
+
+Package: com.supertweaks.HideYourApps
+Version: 1.0.0-1
+Section: Tweak
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/More/ca.menushka.hideyourapps_1.2.1.deb
+Size: 27728
+MD5sum: 9508fe656d509dec8839a361c9512c04
+Description: Do you want a Hide You Apps To Watch Good Things :).
+Name: Hide Your Apps
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.HideYourApps
+
+Package: com.supertweaks.Gramplus
+Version: 1.0.0-1
+Section: Tweak
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.unlimapps.gramplus_1.8r-1.deb
+Size: 4299508
+MD5sum: 10a22dd7c010bb7dad39bff48acfae0f
+Description:  :).
+Name: Gramplus
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Gramplus
+
+Package: com.supertweaks.Pastel
+Version: 1.0.0-1
+Section: Tweak
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/More/com.unlimapps.gramplus_1.8r-1.deb
+Size: 18232
+MD5sum: a996fb35b7f239bf3a7650cd84520b18
+Description:  :).
+Name: Pastel
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Pastel
+
+Package: com.supertweaks.Priority
+Version: 1.0.0-1
+Section: Tweak
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/More/xyz.royalapps.priority_1.0.1.deb
+Size: 27382
+MD5sum: febed3882ab56ffcf70f22963f65e640
+Description:  :).
+Name: Pastel
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Priority
+
