@@ -111,3 +111,17 @@ Description: This is Package installer. Firmware should be Older than 7.0
 Name: Installer
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Installer
+
+Package: com.supertweaks.MouseGoose
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.pixelomer.mobilegoose_1.1.deb
+Size: 614984
+MD5sum: a16de8b9ededa4a3906018be868591b7
+Description: This is Goose For You Iphone. Firmware should be Older than 7.0
+Name: MouseGoose
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.MouseGoose
