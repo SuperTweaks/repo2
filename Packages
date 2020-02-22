@@ -195,3 +195,17 @@ Description: Do you want More with your Fucking Notchification.
 Name: Notchification
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Notchification
+
+Package: com.supertweaks.Dolphinios
+Version: 1.0.0-1
+Section: Game
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.oatmealdome.dolphinios_2.0.0-238.deb
+Size: 67859444
+MD5sum: ec4a6d3de8dfeb8a91a0acdb84290f56
+Description: Do you want Play Wii on Your Iphone.
+Name: Dolphinios
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Dolphinios
