@@ -63,8 +63,8 @@ Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/xyz.willy.zebra_1.0.deb
-Size: 2278274
-MD5sum: bb6b4ecfa15fa25ad8cebf7b43b129b8
+Size: 13008130
+MD5sum: 7a1fc227eb6e56671fd07ef66f8bd643
 Description: This is a Package instaler. Firmware should be Older than 7.0
 Name: Zebra
 Author: SuperTweaks <frankiericcari80@gmail.com>
