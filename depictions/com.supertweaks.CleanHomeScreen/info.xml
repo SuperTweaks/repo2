@@ -1,0 +1,25 @@
+<package>
+	<id>com.supertweaks.CleanHomeScreen</id>
+	<name>CleanHomeScreen</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Does it spark joy? — Clean Home Screen helps you remove all the clutter from your home screen and lock screen, offering you a simple and clean app launching experience!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
