@@ -142,7 +142,7 @@ Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Gra
 
 Package: com.supertweaks.Cydown
 Version: 1.0.0-1
-Section: Tweaks
+Section: Crack
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -153,3 +153,45 @@ Description: Want To crack you paid tweaks. Go and install a paid tweak
 Name: CyDown
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Cydown
+
+Package: com.supertweaks.LockWidget
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CyDown-6.9.7.deb
+Size: 63132
+MD5sum: 31cb819cd1789ab4df6d15082cf45974
+Description: Lock Screen Widget.
+Name: LockWidget
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.LockWidget
+
+Package: com.supertweaks.Newnowplaying
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rango.newnowplaying_1.2.1.deb
+Size: 3570
+MD5sum: 6e28e83358398dda468f982b68a7690b
+Description: Music.
+Name: Newnowplaying
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Newnowplaying
+
+Package: com.supertweaks.Notchification
+Version: 1.0.0-1
+Section: Crack
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.c1d3r.Notchification_2.0.deb
+Size: 1804408
+MD5sum: 407791d5ddb76ab17f66369b15606930
+Description: Do you want More with your Fucking Notchification.
+Name: Notchification
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Notchification
