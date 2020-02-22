@@ -160,7 +160,7 @@ Section: Tweaks
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/CyDown-6.9.7.deb
+Filename: ./me.conorthedev.lockwidgets_1.2.0.deb
 Size: 63132
 MD5sum: 31cb819cd1789ab4df6d15082cf45974
 Description: Lock Screen Widget.
