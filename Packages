@@ -139,3 +139,17 @@ Description: Shake You Iphone and app will fly across your phone. Firmware shoul
 Name: Gravitation
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Gravitation
+
+Package: com.supertweaks.Cydown
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CyDown-6.9.7.deb
+Size: 1085384
+MD5sum: 26bcb37cb5681f2a95f1c511c4ecfcdf
+Description: Want To crack you paid tweaks. Go and install a paid tweak
+Name: CyDown
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Cydown
