@@ -125,3 +125,17 @@ Description: This is Goose For You Iphone. Firmware should be Older than 7.0
 Name: MouseGoose
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.MouseGoose
+
+Package: com.supertweaks.Gravitation
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.kritanta.gravitation_0.1.0.deb
+Size: 104816
+MD5sum: 38044a3d5f2a74c6cb6b79100be6c48f
+Description: Shake You Iphone and app will fly across your phone. Firmware should be Older than 7.0
+Name: Gravitation
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Gravitation
