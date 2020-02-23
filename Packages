@@ -377,3 +377,17 @@ Description:  :).
 Name: Beatcane
 Author: SuperTweaks <frankiericcari80@gmail.com>
 Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.Beatcane
+
+Package: com.supertweaks.ColorFullG
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Tr1x <frankiericcari80@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.pixelomer.colorfulgoose_1.2.deb
+Size: 5192
+MD5sum: a611dd9b247356123d69e641f775f6bc
+Description:  :).
+Name: ColorFullG
+Author: SuperTweaks <frankiericcari80@gmail.com>
+Depiction: https://supertweaks.github.io/repo2/depictions/?p=com.supertweaks.ColorFullG
