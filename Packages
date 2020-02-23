@@ -272,7 +272,7 @@ Section: Tweak
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.unlimapps.gramplus_1.8r-1.deb
+Filename: ./debs/com.unlimapps.gramplus_1.8r-1.deb
 Size: 18232
 MD5sum: a996fb35b7f239bf3a7650cd84520b18
 Description:  :).
@@ -286,7 +286,7 @@ Section: Tweak
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/xyz.royalapps.priority_1.0.1.deb
+Filename: ./debs/xyz.royalapps.priority_1.0.1.deb
 Size: 27382
 MD5sum: febed3882ab56ffcf70f22963f65e640
 Description:  :).
@@ -300,7 +300,7 @@ Section: Tweak
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.noisyflake.magma_1.0.3.deb
+Filename: ./debs/com.noisyflake.magma_1.0.3.deb
 Size: 52172
 MD5sum: 32472d9742a24e2c51b6ac5131f0ca87
 Description:  :).
@@ -314,7 +314,7 @@ Section: Cracked
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.pulandres.boxy4_4.0.4.deb
+Filename: ./debs/com.pulandres.boxy4_4.0.4.deb
 Size: 2832812 
 MD5sum: 7d7554c13ec7bcc6529c8e50d0a6de1f
 Description:  :).
@@ -328,7 +328,7 @@ Section: Cracked
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.pulandres.bioprotectx_3.1-68.deb
+Filename: ./debs/com.pulandres.bioprotectx_3.1-68.deb
 Size: 604870 
 MD5sum: 5729f267d057d1349139b4b35f5a3379
 Description:  :).
@@ -342,7 +342,7 @@ Section: Cracked
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.pulandres.jellyfish_1.3.3.deb
+Filename: ./debs/com.pulandres.jellyfish_1.3.3.deb
 Size: 192512 
 MD5sum: f6e2d1447ca10e37b1ed1bf1c0eff47b
 Description:  :).
@@ -356,7 +356,7 @@ Section: Cracked
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.pulandres.jumper_1.6.1.deb
+Filename: ./debs/com.pulandres.jumper_1.6.1.deb
 Size: 213756
 MD5sum: 0507d1d317bfebdbb345fb89aa0a1359
 Description:  :).
@@ -370,7 +370,7 @@ Section: Cracked
 Maintainer: Tr1x <frankiericcari80@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/More/com.shepgoba.beatcane_1.0.3.deb
+Filename: ./debs/com.shepgoba.beatcane_1.0.3.deb
 Size: 6208
 MD5sum: 1b755ecdc6cc571f4e3d7dfe1b1572be
 Description:  :).
